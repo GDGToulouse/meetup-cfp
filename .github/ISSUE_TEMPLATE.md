@@ -1,8 +1,17 @@
-Veuillez remplir ce template pour nous aider à en savoir plus:
+{ Veuillez remplir ce template pour nous aider à en savoir plus.
+Pour le titre de l'issue, merci de respecter cette notation : [NOM DE VOTRE CONFERENCE] Prénom Nom }
 
-* Prenom, Nom, Métier: 
-* Sujet de votre conférence: 
-* Description de votre conférence:
-* Thématique:
-* Niveau de difficulté (débutant|avancé|confirmé):
-* Durée (max 45 min): 
+
+## Le speaker
+{ Votre prénom, nom, métier }
+
+## Sujet de votre conférence
+{ Identique à celle du titre }
+
+## Description de votre conférence
+{ La description de votre conférence en quelques lignes... }
+
+## Informations diverses
+* Thématique, Labels :
+* Niveau de difficulté (débutant|avancé|confirmé) :
+* Durée (max 45 min) : 
