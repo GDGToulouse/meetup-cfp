@@ -15,3 +15,4 @@ Pour le titre de l'issue, merci de respecter cette notation : [NOM DE VOTRE CONF
 * Thématique, Labels :
 * Niveau de difficulté (débutant|avancé|confirmé) :
 * Durée (max 45 min) : 
+* Format (slides, live-coding, les deux): 
