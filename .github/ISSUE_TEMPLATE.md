@@ -5,7 +5,7 @@ Pour le titre de l'issue, merci de respecter cette notation : [NOM DE VOTRE CONF
 ## Le speaker
 { Votre prénom, nom, métier }
 
-## Sujet de votre conférence
+## Sujet de votre conférence
 { Identique à celle du titre }
 
 ## Description de votre conférence
