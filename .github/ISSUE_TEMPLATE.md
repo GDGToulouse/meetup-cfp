@@ -16,3 +16,4 @@ Pour le titre de l'issue, merci de respecter cette notation : [NOM DE VOTRE CONF
 * Niveau de difficulté (débutant|avancé|confirmé) :
 * Durée (max 45 min) : 
 * Format (slides, live-coding, les deux): 
+* Dispo ou indispo (après mars, dès que possible, pas entre X et Y):
