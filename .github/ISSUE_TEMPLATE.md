@@ -5,6 +5,8 @@ Pour le titre de l'issue, merci de respecter cette notation : [NOM DE VOTRE CONF
 ## Le speaker
 { Votre prénom, nom, métier }
 
+* Twitter handle:
+
 ## Sujet de votre conférence
 { Identique à celle du titre }
 
