@@ -31,5 +31,6 @@
 * Format:
     - [ ] Slides
     - [ ] Live coding
-    - [ ] Both
+    - [ ] Video
+    - [ ] Sound
 * Availability (e.g: ASAP, before/after XXX):
