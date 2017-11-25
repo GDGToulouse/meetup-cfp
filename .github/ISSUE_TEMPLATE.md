@@ -1,24 +1,35 @@
-{ Veuillez remplir ce template pour nous aider à en savoir plus.
-Pour le titre de l'issue, merci de respecter cette notation : [NOM DE VOTRE CONFERENCE] Prénom Nom }
+{ Please fill in this template to help us have a better understanding about you and your talk. Use this pattern for the issue title: [talk title] Firstname Lastname }
 
 
-## Le speaker
-{ Votre prénom, nom, métier }
+## About you
 
+* Name:
+* Job title:
+* Company: 
 * Twitter handle:
-* Experience en tant que Speaker: (débutant|avancé|confirmé)
+* Experience as a speaker:
+    - [ ] beginner
+    - [ ] advanced
+    - [ ] expert
+* Links to your previous events, videos etc. : 
 
-{ Liens vers events, videos, etc. }
+---
 
-## Sujet de votre conférence
-{ Identique à celle du titre }
+## Description of your talk (200 characters at least)
 
-## Description de votre conférence
-{ La description de votre conférence en quelques lignes... }
 
-## Informations diverses
-* Thématique, Labels :
-* Niveau de difficulté (débutant|avancé|confirmé) :
-* Durée (max 45 min) : 
-* Format (slides, live-coding, les deux): 
-* Dispo ou indispo (après mars, dès que possible, pas entre X et Y):
+---
+
+## Miscs
+
+* Tags (e.g: angular, android, web, iot) :
+* Talk level :
+    - [ ] beginner
+    - [ ] advanced
+    - [ ] expert
+* Length (max 45 min) : 
+* Format:
+    - [ ] Slides
+    - [ ] Live coding
+    - [ ] Both
+* Availability (e.g: ASAP, before/after XXX):
