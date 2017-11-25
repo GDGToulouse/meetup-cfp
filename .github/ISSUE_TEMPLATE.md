@@ -4,6 +4,7 @@
 ## About you
 
 * Name:
+* Link to profile picture (best quality you have):
 * Job title:
 * Company: 
 * Twitter handle:
