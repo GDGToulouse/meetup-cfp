@@ -1,5 +1,10 @@
 { Please fill in this template to help us have a better understanding about you and your talk. Use this pattern for the issue title: [talk title] Firstname Lastname }
 
+Language of the talk: 
+- [ ] 🇫🇷
+- [ ] 🇬🇧
+
+Please use the language you will use during the presentation to fill in this form.
 
 ## About you
 
