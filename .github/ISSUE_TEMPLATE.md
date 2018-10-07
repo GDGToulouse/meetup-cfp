@@ -1,5 +1,7 @@
 { Please fill in this template to help us have a better understanding about you and your talk. Use this pattern for the issue title: [talk title] Firstname Lastname }
 
+Notice: We cannot reimburse travel and hotel expenses unfortunately, we are a non profit association.
+
 Language of the talk: 
 - [ ] 🇫🇷
 - [ ] 🇬🇧
